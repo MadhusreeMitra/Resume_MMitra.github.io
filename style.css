@@ -35,8 +35,6 @@
 
     border: 1px solid #333;
 
-    border-radius: 6px;
-
     text-decoration: none;
 
     color: black;
@@ -71,7 +69,6 @@
 
     object-fit: cover;
     
-    border-radius: 8px;
 }
 
 .bio {
