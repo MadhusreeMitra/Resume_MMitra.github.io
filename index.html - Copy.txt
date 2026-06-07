@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+```
+<title>Dr. Madhusree Mitra</title>
+
+<link rel="stylesheet" href="style.css">
+```
+
+</head>
+
+<body>
+
+<header class="hero">
+
+```
+<h1>Dr. Madhusree Mitra</h1>
+
+<p class="subtitle">
+    Plant Biochemist | Metabolomics & Plant Cell Wall Biology
+</p>
+
+<div class="button-links">
+
+    <a href="pdfs/CV_Madhusree_Mitra.pdf"
+       target="_blank">
+       CV
+    </a>
+
+    <a href="https://scholar.google.com"
+       target="_blank">
+       Google Scholar
+    </a>
+
+    <a href="https://orcid.org/0000-0002-8653-8770"
+       target="_blank">
+       ORCID
+    </a>
+
+    <a href="mailto:Madhusree.mitra29@gmail.com">
+       Email
+    </a>
+
+</div>
+```
+
+</header>
+
+<section class="about">
+
+```
+<div class="profile-image">
+
+    <img src="images/profile.jpg"
+         alt="Madhusree Mitra">
+
+</div>
+
+<div class="bio">
+
+    <p>
+        I am a metabolomics scientist and plant biochemist specializing in mass spectrometry-based approaches to understanding plant cell walls, lipid metabolism, and biomass utilization. My research integrates metabolomics, lipidomics, and multivariate data analysis to investigate the molecular mechanisms underlying plant growth, cell wall architecture, and renewable biological resources.
+    </p>
+
+    <p>
+        I recently completed a postdoctoral appointment at the Umeå Plant Science Centre, Swedish University of Agricultural Sciences, where I developed analytical workflows combining GC-MS, LC-MS, and pyrolysis GC-MS to study hydrophobic components of Populus cell walls and cuticles. My work has contributed to new insights into the relationships between cell wall polysaccharides, lipids, and plant development.
+    </p>
+
+<p>
+        I received my PhD from CSIR–Central Salt and Marine Chemicals Research Institute in 2019, where my research focused on microalgal biotechnology, omega-3 fatty acids, and biorefinery applications. I hold a B.Tech. in Biotechnology from West Bengal University of Technology.
+    </p>
+
+<p>
+       I am currently seeking research opportunities in metabolomics, plant biology, biotechnology, and mass spectrometry.
+    </p>
+
+
+
+
+</div>
+```
+
+</section>
